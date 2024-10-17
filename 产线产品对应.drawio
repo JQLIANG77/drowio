@@ -5,46 +5,52 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="alNRNK0P9NENSTpUArkK-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;边侧产线&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="30" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="400" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alNRNK0P9NENSTpUArkK-18" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;星辰视觉大模型一体机&lt;/li&gt;&lt;li&gt;星辰语音大模型一体机&lt;/li&gt;&lt;li&gt;视联智盒&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="180" y="210" width="220" height="60" as="geometry" />
+          <mxGeometry x="120" y="210" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alNRNK0P9NENSTpUArkK-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;端侧产线&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="30" y="300" width="100" height="60" as="geometry" />
+          <mxGeometry x="400" y="300" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alNRNK0P9NENSTpUArkK-20" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;&quot;&gt;AI摄像头&lt;/li&gt;&lt;li style=&quot;&quot;&gt;AI+系列&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;AI+云电脑&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;AI+天翼云盘&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;智能遥控器&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;数字生活大脑&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;智能门锁&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;5G新通话&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;AI+家庭中屏（音箱）&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="180" y="300" width="220" height="190" as="geometry" />
+          <mxGeometry x="120" y="300" width="220" height="190" as="geometry" />
         </mxCell>
         <mxCell id="alNRNK0P9NENSTpUArkK-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;创新产线&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="30" y="520" width="100" height="60" as="geometry" />
+          <mxGeometry x="400" y="520" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alNRNK0P9NENSTpUArkK-22" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;星辰慧记&lt;/li&gt;&lt;li&gt;星辰慧答&lt;/li&gt;&lt;li&gt;语音能力&lt;/li&gt;&lt;li&gt;活体OCR能力&lt;/li&gt;&lt;li&gt;数字人能力&lt;/li&gt;&lt;li&gt;AI+系列&lt;/li&gt;&lt;ul&gt;&lt;li&gt;AI+通信助理&lt;/li&gt;&lt;li&gt;AI+视频彩铃&lt;/li&gt;&lt;li&gt;AI+全渠&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="180" y="520" width="220" height="180" as="geometry" />
+          <mxGeometry x="120" y="520" width="220" height="180" as="geometry" />
         </mxCell>
         <mxCell id="alNRNK0P9NENSTpUArkK-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;家庭组&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="30" y="740" width="100" height="60" as="geometry" />
+          <mxGeometry x="400" y="740" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alNRNK0P9NENSTpUArkK-25" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;智能眼镜&lt;/li&gt;&lt;li&gt;家庭算力主机&lt;/li&gt;&lt;li&gt;听力机&lt;/li&gt;&lt;li&gt;星小辰APP&lt;/li&gt;&lt;li&gt;毛绒玩具&lt;/li&gt;&lt;li&gt;AI+系列&lt;/li&gt;&lt;ul&gt;&lt;li&gt;AI+手机（麦芒）&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="180" y="730" width="220" height="150" as="geometry" />
+          <mxGeometry x="120" y="730" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="alNRNK0P9NENSTpUArkK-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;综合组&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1040" width="100" height="60" as="geometry" />
+          <mxGeometry x="410" y="1040" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alNRNK0P9NENSTpUArkK-27" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;telesearch能力及应用&lt;/li&gt;&lt;li&gt;CV算法能力及应用&lt;/li&gt;&lt;li&gt;校园卫士云化版&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="180" y="920" width="220" height="80" as="geometry" />
+          <mxGeometry x="120" y="920" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="alNRNK0P9NENSTpUArkK-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;云化组&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="40" y="930" width="100" height="60" as="geometry" />
+          <mxGeometry x="410" y="930" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alNRNK0P9NENSTpUArkK-29" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;AIGC产品&lt;/li&gt;&lt;li&gt;AI+系列&lt;/li&gt;&lt;ul&gt;&lt;li&gt;AI+文创&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1040" width="220" height="70" as="geometry" />
+          <mxGeometry x="120" y="1040" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="alNRNK0P9NENSTpUArkK-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;大数据产线&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-40" width="100" height="60" as="geometry" />
+          <mxGeometry x="400" y="20" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="alNRNK0P9NENSTpUArkK-31" value="&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;应用产品&lt;/li&gt;&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;风控核验&lt;/li&gt;&lt;li&gt;翼联寻回&lt;/li&gt;&lt;li&gt;翼点触达&lt;/li&gt;&lt;li&gt;翼锐智投&lt;/li&gt;&lt;li&gt;天骥人口大数据&lt;/li&gt;&lt;li&gt;舆情洞察&lt;/li&gt;&lt;li&gt;翼联呵护&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;能力产品&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;风控评分&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;动态标签&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;隐私计算&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-50" width="220" height="220" as="geometry" />
+          <mxGeometry x="120" y="-50" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="alNRNK0P9NENSTpUArkK-36" value="大数据产线" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="656" y="15" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="alNRNK0P9NENSTpUArkK-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=21;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="32.5" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
