@@ -1,9 +1,90 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="第 1 页" id="W5_Eh6WZ5-N1XiKOqgzU">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-24" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="125" width="230" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-19" value="&lt;b&gt;声音注册接口&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-20" value="&lt;ul style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;校验&lt;/li&gt;&lt;li&gt;特征提取&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-22" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;面向用户的接口&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-23" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;星河纳管的能力&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-27" value="&lt;b&gt;声音删除接口&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-32" value="&lt;b&gt;声音查询接口&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="335" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-34" value="&lt;b&gt;声音合成接口&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="335" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;已拆开，待梳理grpc协议能力&lt;br&gt;星河排期纳管&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-36" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-38" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="125" width="230" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-40" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="320" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;合成模型，待算法拆出grpc协议&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;再星河纳管排期&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-42" value="特征向量库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WllOK95YWm6MOxgD5Ajx-24" target="WllOK95YWm6MOxgD5Ajx-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="260" as="sourcePoint" />
+            <mxPoint x="410" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WllOK95YWm6MOxgD5Ajx-24" target="WllOK95YWm6MOxgD5Ajx-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="260" as="sourcePoint" />
+            <mxPoint x="410" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WllOK95YWm6MOxgD5Ajx-36" target="WllOK95YWm6MOxgD5Ajx-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="260" as="sourcePoint" />
+            <mxPoint x="410" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WllOK95YWm6MOxgD5Ajx-36" target="WllOK95YWm6MOxgD5Ajx-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="260" as="sourcePoint" />
+            <mxPoint x="410" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WllOK95YWm6MOxgD5Ajx-47" value="1.星河纳管能力&lt;div&gt;2.特征向量库用什么&lt;/div&gt;&lt;div&gt;3.接口开发谁做？算法完成的话，部署在哪？鉴权如何封装？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="460" width="350" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
